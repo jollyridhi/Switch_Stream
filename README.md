@@ -46,4 +46,4 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact Akshit Mittal at [ridhijolly9@gmail.com].
+If you have any questions or suggestions, please feel free to contact Ridhi Jolly at [ridhijolly9@gmail.com].
